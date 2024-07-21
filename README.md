@@ -37,6 +37,15 @@
 ## 🚀 Getting Started
 
 To get started with CollabDocs, follow these steps:
+1. Fork the repository.
+2. Commit your changes.
+3. Add a lovely features.
+4. Push to the branch.
+5. Create a environment file.
+6. Run
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 Sign Up / Log In: Use GitHub for secure authentication through NextAuth.
